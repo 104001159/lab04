@@ -1,15 +1,15 @@
 /*
 filename: lab04.css
 author: Kavish Shanmugam
-created: 2026-03-25
-last modified: 2026-03-25
+created: 25-03-2026
+last modified: 26-03-2026
 description: Stylesheet for lab04.html
 */
 
 /* Universal selector - applies to all elements */
 * {
     font-family: calibri, sans-serif;
-    color: #2F4F4F;
+    color: black;
 }
 
 /* h1 - purple, double size, bold */
@@ -76,7 +76,7 @@ ol ul {
 
 /* Pseudo class - aside disappears on hover */
 aside:hover {
-    display: none;
+    opacity: 0;
 }
 
 /* Pseudo class - nav link hover effect */
