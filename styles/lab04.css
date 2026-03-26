@@ -9,7 +9,7 @@ description: Stylesheet for lab04.html
 /* Universal selector - applies to all elements */
 * {
     font-family: calibri, sans-serif;
-    color: black;
+    color: #2F4F4F;
 }
 
 /* h1 - purple, double size, bold */
